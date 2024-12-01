@@ -1,10 +1,6 @@
 # **create-gi** 🚀  
-[![NPM Version](https://img.shields.io/npm/v/create-gi?color=brightgreen&style=flat-square)](https://www.npmjs.com/package/create-gi)  
-[![License](https://img.shields.io/npm/l/create-gi?color=blue&style=flat-square)](https://github.com/SH20RAJ/create-gi/blob/main/LICENSE)  
-[![Downloads](https://img.shields.io/npm/dt/create-gi?color=orange&style=flat-square)](https://www.npmjs.com/package/create-gi)  
-[![Stars](https://img.shields.io/github/stars/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/stargazers)  
-[![Forks](https://img.shields.io/github/forks/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/network/members)  
-[![Issues](https://img.shields.io/github/issues/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/issues)  
+[![NPM Version](https://img.shields.io/npm/v/create-gi?color=brightgreen&style=flat-square)](https://www.npmjs.com/package/create-gi)  [![License](https://img.shields.io/npm/l/create-gi?color=blue&style=flat-square)](https://github.com/SH20RAJ/create-gi/blob/main/LICENSE)  [![Downloads](https://img.shields.io/npm/dt/create-gi?color=orange&style=flat-square)](https://www.npmjs.com/package/create-gi)  [![Stars](https://img.shields.io/github/stars/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/stargazers)  [![Forks](https://img.shields.io/github/forks/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/network/members)
+[![Issues](https://img.shields.io/github/issues/SH20RAJ/create-gi?style=flat-square)](https://github.com/SH20RAJ/create-gi/issues)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fcreate-gi&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fcreate-gi)  
 
 ---
