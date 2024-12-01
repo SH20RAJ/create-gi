@@ -1,0 +1,12 @@
+{
+  "name": "create-gi",
+  "version": "1.0.0",
+  "description": "A package to generate a standard .gitignore file",
+  "main": "index.js",
+  "bin": {
+    "create-gi": "./index.js"
+  },
+  "keywords": ["gitignore", "npx", "file-generator", "standard"],
+  "author": "sh20raj",
+  "license": "MIT"
+}
