@@ -1,6 +1,6 @@
 {
   "name": "create-gi",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package to generate a standard .gitignore file",
   "main": "index.js",
   "bin": {
@@ -8,5 +8,13 @@
   },
   "keywords": ["gitignore", "npx", "file-generator", "standard"],
   "author": "sh20raj",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SH20RAJ/create-gi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SH20RAJ/create-gi/issues"
+  },
+  "homepage": "https://github.com/SH20RAJ/create-gi#readme"
 }
