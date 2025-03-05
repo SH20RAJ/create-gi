@@ -84,7 +84,7 @@ htmlcov/
 *.backup
 temp/
 tmp/
-`.trim();trim();
+`.trim();
 
 const filePath = path.join(process.cwd(), '.gitignore');
 

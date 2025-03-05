@@ -1,6 +1,6 @@
 {
   "name": "create-gi",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "A package to generate a standard .gitignore file",
   "main": "index.js",
   "bin": {
