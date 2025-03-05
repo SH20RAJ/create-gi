@@ -5,12 +5,16 @@ const path = require('path');
 
 // Standard .gitignore template
 const gitignoreContent = `
+# Create using 'npx create-gi' command
+
 # Node.js
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .env
+package-lock.json
+.npm
 
 # Python
 __pycache__/
@@ -19,11 +23,23 @@ __pycache__/
 *.egg-info/
 *.eggs/
 *.pyo
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+lib/
+lib64/
 
 # Virtual environments
 .venv/
 env/
 venv/
+ENV/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # IDE and Editor files
 .vscode/
@@ -31,11 +47,44 @@ venv/
 *.swp
 *.swo
 *.tmp
+*.sublime-workspace
+*.sublime-project
+.settings/
+.project
+.classpath
 
 # OS-specific files
 .DS_Store
 Thumbs.db
-`.trim();
+.directory
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.sqlite3
+
+# Build and dist
+dist/
+build/
+out/
+target/
+
+# Coverage and test
+coverage/
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Misc
+.cache/
+*.bak
+*.backup
+temp/
+tmp/
+`.trim();trim();
 
 const filePath = path.join(process.cwd(), '.gitignore');
 
